@@ -1,0 +1,13 @@
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\DemoWeb.dll.config
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\DemoWeb.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\DemoWeb.pdb
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\obj\Debug\DemoWeb.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\obj\Debug\DemoWeb.pdb
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\obj\Debug\DemoWebForm.csprojResolveAssemblyReference.cache
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\EPPlus.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\EPPlus.xml
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\ICSharpCode.SharpZipLib.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\NPOI.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\NPOI.OOXML.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\NPOI.OpenXml4Net.dll
+e:\TailieuIT\C#\LearnC#\DemoWeb\DemoWeb\bin\NPOI.OpenXmlFormats.dll
